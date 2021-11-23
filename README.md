@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/usamazaheer0522/test/_apis/build/status/usamahh.pipelines-java?branchName=master)](https://dev.azure.com/usamazaheer0522/test/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
